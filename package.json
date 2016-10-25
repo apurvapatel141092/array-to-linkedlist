@@ -1,0 +1,28 @@
+{
+  "name": "array-to-linkedlist",
+  "version": "0.1.1",
+  "description": "Convert an array to Singly Linked List",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apurvapatel141092/array-to-linkedlist"
+  },
+  "bugs": {
+    "url": "https://github.com/apurvapatel141092/array-to-linkedlist/issues"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
+  },
+  "keywords": [
+    "array",
+    "linkedlist",
+    "list",
+    "convert"
+  ],
+  "author": "Apurva Patel"
+}
